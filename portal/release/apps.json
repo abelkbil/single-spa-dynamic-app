@@ -1,0 +1,32 @@
+{
+	"tenantId": 1,
+	"tenantName": "Test Tenant",
+	"metaData": [{
+		"Id": 1,
+		"Name": "app1",
+		"Hash": "/app1",
+		"AppUrl": "apps/app1/singleSpaEntry.js",
+		"AppStoreUrl": "apps/app1/store.js"
+    },
+    {
+		"Id": 2,
+		"Name": "app2",
+		"Hash": "/app2",
+		"AppUrl": "apps/app2/singleSpaEntry.js",
+		"AppStoreUrl": "apps/app2/store.js"
+    },
+    {
+		"Id": 3,
+		"Name": "app3",
+		"Hash": "/app3",
+		"AppUrl": "apps/app3/singleSpaEntry.js",
+		"AppStoreUrl": null
+    },
+    {
+		"Id": 4,
+		"Name": "app4",
+		"Hash": "/app4",
+		"AppUrl": "apps/app4/singleSpaEntry.js",
+		"AppStoreUrl": null
+	}]
+}
